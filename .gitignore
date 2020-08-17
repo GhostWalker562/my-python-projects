@@ -1,3 +1,7 @@
 /.vscode
 /python.code-workspace
 /ideas
+/hidden
+/debug.log
+/project_bot.py
+/project_downloader.py

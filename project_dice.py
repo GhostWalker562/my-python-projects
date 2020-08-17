@@ -17,8 +17,6 @@ def dice():
             isPlaying = False
 
 
-
-
 # Defines the main function for the file.
 if __name__ == "__main__":
     main()
